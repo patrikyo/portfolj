@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Monoton|Spectral+SC:800i|Pacifico');
+*{
+	box-sizing: border-box;
+}
+.header{
+	background-color:  #FF3D00;
+	margin-bottom: 1%;
+}
+.rubrik{
+	color : white;
+    font-family: 'Monoton', cursive;
+	font-size : 3em;
+}
+.snabbLeankar{
+	font-family: 'Spectral SC', serif;
+	font-size: 1.5em;
+	color : white;
+	text-decoration: none;
+}
+.snabbLeankar:hover{
+	color: #ff8080;
+	font-size: 1.7em;
+}
+.beskrivning{
+	font-family: 'Anton', sans-serif;  
+	color : #f2f2f2;
+	padding: 1%;
+	font-size: 1em;
+}
+.bild-titel{
+	font-family: 'Anton', sans-serif;  
+	color : #424242;
+}
+.bilder{
+  margin: 3% 0;
+}
+.projekt ul li{
+ 	list-style-type: none;
+}
+.footer{
+	background-color:  #FF3D00;
+}
+.footer p{  
+	font-family: 'Spectral SC', serif;
+	color : white;
+	width: 100%;
+	text-align : center;
+	font-size: 1.6em;
+}
+.signatur{
+	font-family: 'Pacifico', cursive;
+	color : white;
+}
+
+
+
+
+
+
+
+
+
